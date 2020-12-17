@@ -15,6 +15,3 @@
 - 😄 Pronunciation: <b>Prince</b> <i>{Pi-rin-ce}</i>...
 
 - ⚡ Fun fact: <b>Lucky gemstones</b> ...
-
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=prisnelov&show_icons=true alt="Prince Snehgal" /> </p>
-
